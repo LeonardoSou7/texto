@@ -54,3 +54,24 @@ Orientações:
 - Descanso: O tempo de descanso entre séries pode variar de 1 a 5 minutos. Se guia pelo feeling do seu musculo (ajuste de acordo com a sensação muscular).
 - Proteína: Coma proteína, gatinha.
 - Gostosa: Se fazer tudo certinho vai ficar ainda mais gostosa do que já é (não me seguro eu tenho que escrever uma gracinha).
+
+
+
+
+
+
+
+
+'''
+1. Crie dois arrays Numpy de 10 elementos cada, preenchidos com numeros inteiros aleatorios. Calcule a soma, a diferença, o produto e a divisão element-wise entre eles.
+
+2. Crie dduas matrizes 3x3 com numeros aleatorios. Realize a multiplicação de matrizes (dot product) e calcule a transposta da matriz resultado.
+
+3. Crie dois arrays de 10 elementos aleatorios com numeros aleatorios. Compare os arrays e crie um novo array booleano que indique onde os elementos são iguais.
+
+4. Crie um array 2D de forma (4,3) e um array 1D de form (3,). Utilize broadcasting para somar os dois arrays. Apresente o resultado.
+
+5. Gere 1000 numero aleatorios (entre 0 e 100) de uma distribuição. Utilize Numy para calcular o histograma desses dados e exiba os reslrados em um gráfico utilizando um grafico de barras do matplotlid
+
+6. Crie um array NumPy de 100 elementos aleatorios. Em seguida, transforme este array numa matriz 10x10 utilizando o reshape.
+'''
