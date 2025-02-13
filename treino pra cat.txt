@@ -75,3 +75,8 @@ Orientações:
 
 6. Crie um array NumPy de 100 elementos aleatorios. Em seguida, transforme este array numa matriz 10x10 utilizando o reshape.
 '''
+
+
+
+
+https://www.lenovo.com/br/pt/p/laptops/ideapad/ideapad-100/88ips101778/82x5000gbr?cid=br:sem|se|google|j-b2c-amd-convers-google-performancemax-advantage|||82X5000GBR|17923677094|||pmax|mixed|all&gad_source=1&gclid=CjwKCAiAzba9BhBhEiwA7glbaqcceSRIieli53HLqakHX-02YQ1ra8Mh7dsVF25BVRylY5sDACCN6xoCBbkQAvD_BwE
